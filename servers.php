@@ -5,7 +5,7 @@ header('Access-Control-Allow-Methods: GET');
 
 try {
     // ดึงข้อมูลจาก API ของ IRZ
-    $apiUrl = 'https://web.gta-irz.com/data/image/launcher/api.json';
+    $apiUrl = 'https://github.com/porsamp/api-launcher/blob/main/api.json';
     $jsonContent = file_get_contents($apiUrl);
     
     if ($jsonContent === false) {

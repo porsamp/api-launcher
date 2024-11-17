@@ -1,5 +1,9 @@
 {
     "launcherVersionCode": 1,
     "launcherAddress": "gta-irz.com",
-    "launcherPort": 7777
+    "launcherPort": 7777,
+    "img": [
+        "https://i.imgur.com/zXop5xt.png",
+        "https://i.imgur.com/K4XiVed.png"
+    ]
 }

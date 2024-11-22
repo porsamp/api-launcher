@@ -2,7 +2,11 @@
     "launcherVersionCode": 1,
     "launcherAddress": "gta-irz.com",
     "launcherPort": 7777,
-    "videos": "https://youtu.be/ECj2tLOYxdM",
+     "launcherUpdate": {
+      "version": "4",
+      "changeLog": "- เพิ่มฟีเจอร์ใหม่\n- แก้บั๊กต่างๆ\n- ปรับปรุงประสิทธิภาพ",
+      "download": "https://example.com/download/latest"
+    },
     "img": [
         "https://i.imgur.com/zXop5xt.png",
         "https://i.imgur.com/K4XiVed.png"

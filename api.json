@@ -6,6 +6,10 @@
       "name": "IRZGAMES_x64",
       "download": "https://web.gta-irz.com/data/launcher/IRZGAMES_x64.7z"
     },
+    "launcherInstall": {
+      "name": "irz-launcher_1.4.0_x64-setup",
+      "download": "https://web.gta-irz.com/data/launcher/irz-launcher_1.4.0_x64-setup.exe"
+    },
     "img": [
         "https://i.imgur.com/zXop5xt.png",
         "https://i.imgur.com/K4XiVed.png"

@@ -1,0 +1,95 @@
+{
+    "files": [
+        {
+            "name": "test-irz.asi",
+            "size": 69326,
+            "path": "irz-mod/test-irz.asi",
+            "url": "https://web.gta-irz.com/data/launcher/mods/irz-mod/test-irz.asi",
+            "private": "yes"
+        },
+        {
+            "name": "bf400.dff",
+            "size": 41134080,
+            "path": "modloader/veh/bf400/bf400.dff",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/bf400/bf400.dff",
+            "private": "yes"
+        },
+        {
+            "name": "bf400.txd",
+            "size": 60998624,
+            "path": "modloader/veh/bf400/bf400.txd",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/bf400/bf400.txd",
+            "private": "yes"
+        },
+        {
+            "name": "fcr900.dff",
+            "size": 53288960,
+            "path": "modloader/veh/fcr900/fcr900.dff",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/fcr900/fcr900.dff",
+            "private": "yes"
+        },
+        {
+            "name": "fcr900.txd",
+            "size": 24557532,
+            "path": "modloader/veh/fcr900/fcr900.txd",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/fcr900/fcr900.txd",
+            "private": "yes"
+        },
+        {
+            "name": "infernus.dff",
+            "size": 48246784,
+            "path": "modloader/veh/infernus/infernus.dff",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/infernus/infernus.dff",
+            "private": "yes"
+        },
+        {
+            "name": "infernus.txd",
+            "size": 73775320,
+            "path": "modloader/veh/infernus/infernus.txd",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/infernus/infernus.txd",
+            "private": "yes"
+        },
+        {
+            "name": "nrg500.dff",
+            "size": 34265088,
+            "path": "modloader/veh/nrg500/nrg500.dff",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/nrg500/nrg500.dff",
+            "private": "yes"
+        },
+        {
+            "name": "nrg500.txd",
+            "size": 85185744,
+            "path": "modloader/veh/nrg500/nrg500.txd",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/nrg500/nrg500.txd",
+            "private": "yes"
+        },
+        {
+            "name": "pcj600.dff",
+            "size": 48572416,
+            "path": "modloader/veh/pcj600/pcj600.dff",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/pcj600/pcj600.dff",
+            "private": "yes"
+        },
+        {
+            "name": "pcj600.txd",
+            "size": 86168440,
+            "path": "modloader/veh/pcj600/pcj600.txd",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/pcj600/pcj600.txd",
+            "private": "yes"
+        },
+        {
+            "name": "bikes.ifp",
+            "size": 69326,
+            "path": "modloader/veh/bikes.ifp",
+            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/bikes.ifp",
+            "private": "yes"
+        },
+        {
+            "name": "test.dll",
+            "size": 69326,
+            "path": "test.dll",
+            "url": "https://web.gta-irz.com/data/launcher/mods/test.dll",
+            "private": "yes"
+        }
+    ]
+}

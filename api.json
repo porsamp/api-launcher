@@ -2,6 +2,10 @@
     "launcherVersionCode": 1,
     "launcherAddress": "gta-irz.com",
     "launcherPort": 7777,
+    "launcherGames": {
+      "name": "IRZGAMES_x64",
+      "download": "https://web.gta-irz.com/data/launcher/IRZGAMES_x64.7z"
+    },
     "img": [
         "https://i.imgur.com/zXop5xt.png",
         "https://i.imgur.com/K4XiVed.png"

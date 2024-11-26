@@ -1,94 +1,122 @@
 {
     "files": [
         {
-            "name": "test-irz.asi",
-            "size": 69326,
-            "path": "irz-mod",
-            "url": "https://web.gta-irz.com/data/launcher/mods/irz-mod/test-irz.asi",
+            "name": "60%20FPS.cs",
+            "size": 17965,
+            "path": "cleo",
+            "url": "https://web.gta-irz.com/data/launcher/mods/cleo/60%20FPS.cs",
             "private": "yes"
         },
         {
-            "name": "bf400.dff",
-            "size": 41134080,
-            "path": "modloader/veh/bf400",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/bf400/bf400.dff",
+            "name": "FPSUnlock.cs",
+            "size": 18114,
+            "path": "cleo",
+            "url": "https://web.gta-irz.com/data/launcher/mods/cleo/FPSUnlock.cs",
             "private": "yes"
         },
         {
-            "name": "bf400.txd",
-            "size": 60998624,
-            "path": "modloader/veh/bf400",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/bf400/bf400.txd",
+            "name": "fpsunlimiter.cs",
+            "size": 17593,
+            "path": "cleo",
+            "url": "https://web.gta-irz.com/data/launcher/mods/cleo/fpsunlimiter.cs",
             "private": "yes"
         },
         {
-            "name": "fcr900.dff",
-            "size": 53288960,
-            "path": "modloader/veh/fcr900",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/fcr900/fcr900.dff",
-            "private": "yes"
-        },
-        {
-            "name": "fcr900.txd",
-            "size": 24557532,
-            "path": "modloader/veh/fcr900",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/fcr900/fcr900.txd",
-            "private": "yes"
-        },
-        {
-            "name": "infernus.dff",
-            "size": 48246784,
-            "path": "modloader/veh/infernus",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/infernus/infernus.dff",
-            "private": "yes"
-        },
-        {
-            "name": "infernus.txd",
-            "size": 73775320,
-            "path": "modloader/veh/infernus",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/infernus/infernus.txd",
-            "private": "yes"
-        },
-        {
-            "name": "nrg500.dff",
-            "size": 34265088,
-            "path": "modloader/veh/nrg500",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/nrg500/nrg500.dff",
-            "private": "yes"
-        },
-        {
-            "name": "nrg500.txd",
-            "size": 85185744,
-            "path": "modloader/veh/nrg500",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/nrg500/nrg500.txd",
-            "private": "yes"
-        },
-        {
-            "name": "pcj600.dff",
-            "size": 48572416,
-            "path": "modloader/veh/pcj600",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/pcj600/pcj600.dff",
-            "private": "yes"
-        },
-        {
-            "name": "pcj600.txd",
-            "size": 86168440,
-            "path": "modloader/veh/pcj600",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/pcj600/pcj600.txd",
-            "private": "yes"
-        },
-        {
-            "name": "bikes.ifp",
-            "size": 69326,
-            "path": "modloader/veh",
-            "url": "https://web.gta-irz.com/data/launcher/mods/modloader/veh/bikes.ifp",
-            "private": "yes"
-        },
-        {
-            "name": "test.dll",
-            "size": 69326,
+            "name": "CustomLoadScreen.asi",
+            "size": 5557248,
             "path": "",
-            "url": "https://web.gta-irz.com/data/launcher/mods/test.dll",
+            "url": "https://web.gta-irz.com/data/launcher/mods/CustomLoadScreen.asi",
+            "private": "yes"
+        },
+        {
+            "name": "CustomLoadScreen.png",
+            "size": 2214523,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/CustomLoadScreen.png",
+            "private": "yes"
+        },
+        {
+            "name": "FPSBOOST%20BY%20KREW.asi",
+            "size": 253952,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/FPSBOOST%20BY%20KREW.asi",
+            "private": "yes"
+        },
+        {
+            "name": "FPSBOOST.asi",
+            "size": 253952,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/FPSBOOST.asi",
+            "private": "yes"
+        },
+        {
+            "name": "FPSBOOST.ini",
+            "size": 2115,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/FPSBOOST.ini",
+            "private": "yes"
+        },
+        {
+            "name": "FramerateVigilante.SA.asi",
+            "size": 255488,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/FramerateVigilante.SA.asi",
+            "private": "yes"
+        },
+        {
+            "name": "FramerateVigilante.ini",
+            "size": 187,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/FramerateVigilante.ini",
+            "private": "yes"
+        },
+        {
+            "name": "RefreshRateFix.ASI",
+            "size": 75264,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/RefreshRateFix.ASI",
+            "private": "yes"
+        },
+        {
+            "name": "UncapFPS.asi",
+            "size": 7680,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/UncapFPS.asi",
+            "private": "yes"
+        },
+        {
+            "name": "bass.dll",
+            "size": 128181,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/bass.dll",
+            "private": "yes"
+        },
+        {
+            "name": "bass_fx.dll",
+            "size": 34392,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/bass_fx.dll",
+            "private": "yes"
+        },
+        {
+            "name": "sampvoice.asi",
+            "size": 916992,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/sampvoice.asi",
+            "private": "yes"
+        },
+        {
+            "name": "vorbisFile.dll",
+            "size": 53760,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/vorbisFile.dll",
+            "private": "yes"
+        },
+        {
+            "name": "vorbisHooked.dll",
+            "size": 65536,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/vorbisHooked.dll",
             "private": "yes"
         }
     ]

@@ -36,13 +36,6 @@
             "private": "yes"
         },
         {
-            "name": "FPSBOOST%20BY%20KREW.asi",
-            "size": 253952,
-            "path": "",
-            "url": "https://web.gta-irz.com/data/launcher/mods/FPSBOOST%20BY%20KREW.asi",
-            "private": "yes"
-        },
-        {
             "name": "FPSBOOST.asi",
             "size": 253952,
             "path": "",
@@ -54,6 +47,13 @@
             "size": 2115,
             "path": "",
             "url": "https://web.gta-irz.com/data/launcher/mods/FPSBOOST.ini",
+            "private": "yes"
+        },
+        {
+            "name": "FPSBOOSTASI.asi",
+            "size": 253952,
+            "path": "",
+            "url": "https://web.gta-irz.com/data/launcher/mods/FPSBOOSTASI.asi",
             "private": "yes"
         },
         {

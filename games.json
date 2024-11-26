@@ -1,17 +1,17 @@
 {
     "files": [
         {
-            "name": "60%20FPS.cs",
-            "size": 17965,
-            "path": "cleo",
-            "url": "https://web.gta-irz.com/data/launcher/mods/cleo/60%20FPS.cs",
-            "private": "yes"
-        },
-        {
             "name": "FPSUnlock.cs",
             "size": 18114,
             "path": "cleo",
             "url": "https://web.gta-irz.com/data/launcher/mods/cleo/FPSUnlock.cs",
+            "private": "yes"
+        },
+        {
+            "name": "boot_fps.cs",
+            "size": 17965,
+            "path": "cleo",
+            "url": "https://web.gta-irz.com/data/launcher/mods/cleo/boot_fps.cs",
             "private": "yes"
         },
         {

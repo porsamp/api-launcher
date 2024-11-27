@@ -2,14 +2,14 @@
     "launcherVersionCode": 1,
     "launcherAddress": "gta-irz.com",
     "launcherPort": 7777,
-    "launcherMods": "https://web.gta-irz.com/data/launcher/mods/",
+    "launcherMods": "http://web.gta-irz.com/data/launcher/mods/",
     "launcherGames": {
       "name": "IRZGAMES_x64",
-      "download": "https://web.gta-irz.com/data/launcher/IRZGAMES_x64.7z"
+      "download": "http://web.gta-irz.com/data/launcher/IRZGAMES_x64.7z"
     },
     "launcherInstall": {
       "name": "irz-launcher_1.5.0_x64-setup",
-      "download": "https://web.gta-irz.com/data/launcher/irz-launcher_1.5.0_x64-setup.exe"
+      "download": "http://web.gta-irz.com/data/launcher/irz-launcher_1.5.0_x64-setup.exe"
     },
     "img": [
         "https://i.imgur.com/zXop5xt.png",

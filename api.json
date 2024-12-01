@@ -3,6 +3,7 @@
     "launcherAddress": "gta-irz.com",
     "launcherPort": 7777,
     "launcherMods": "http://web.gta-irz.com/data/launcher/mods/",
+    "launcherBanner": "https://i.imgur.com/zXop5xt.png",
     "launcherGames": {
       "name": "IRZGAMES_x64",
       "download": "http://web.gta-irz.com/data/launcher/IRZGAMES_x64.7z"
@@ -10,9 +11,5 @@
     "launcherInstall": {
       "name": "irz-launcher_1.5.0_x64-setup",
       "download": "http://web.gta-irz.com/data/launcher/irz-launcher_1.5.0_x64-setup.exe"
-    },
-    "img": [
-        "https://i.imgur.com/zXop5xt.png",
-        "https://i.imgur.com/K4XiVed.png"
-    ]
+    }
 }

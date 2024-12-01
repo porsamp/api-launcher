@@ -1,59 +1,10 @@
 {
     "files": [
         {
-            "name": "III.VC.SA.LimitAdjuster.ini",
-            "size": 8167,
-            "path": "",
-            "url": "http://web.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.ini",
-            "private": "yes"
-        },
-        {
-            "name": "sampvoice.asi",
-            "size": 916992,
-            "path": "",
-            "url": "http://web.gta-irz.com/data/launcher/mods/sampvoice.asi",
-            "private": "yes"
-        },
-        {
-            "name": "vorbisFile.dll",
-            "size": 53760,
-            "path": "",
-            "url": "http://web.gta-irz.com/data/launcher/mods/vorbisFile.dll",
-            "private": "yes"
-        },
-        {
-            "name": "ImgLimitAdjuster.asi",
-            "size": 97280,
-            "path": "",
-            "url": "http://web.gta-irz.com/data/launcher/mods/ImgLimitAdjuster.asi",
-            "private": "yes"
-        },
-        {
-            "name": "III.VC.SA.LimitAdjuster.asi",
-            "size": 394240,
-            "path": "",
-            "url": "http://web.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.asi",
-            "private": "yes"
-        },
-        {
-            "name": "vorbisHooked.dll",
-            "size": 65536,
-            "path": "",
-            "url": "http://web.gta-irz.com/data/launcher/mods/vorbisHooked.dll",
-            "private": "yes"
-        },
-        {
             "name": "bass_fx.dll",
             "size": 34392,
             "path": "",
             "url": "http://web.gta-irz.com/data/launcher/mods/bass_fx.dll",
-            "private": "yes"
-        },
-        {
-            "name": "DSOUND.dll",
-            "size": 84992,
-            "path": "",
-            "url": "http://web.gta-irz.com/data/launcher/mods/DSOUND.dll",
             "private": "yes"
         },
         {
@@ -64,17 +15,59 @@
             "private": "yes"
         },
         {
+            "name": "ImgLimitAdjuster.asi",
+            "size": 97280,
+            "path": "",
+            "url": "http://web.gta-irz.com/data/launcher/mods/ImgLimitAdjuster.asi",
+            "private": "yes"
+        },
+        {
+            "name": "III.VC.SA.LimitAdjuster.ini",
+            "size": 8167,
+            "path": "",
+            "url": "http://web.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.ini",
+            "private": "yes"
+        },
+        {
+            "name": "vorbisFile.dll",
+            "size": 53760,
+            "path": "",
+            "url": "http://web.gta-irz.com/data/launcher/mods/vorbisFile.dll",
+            "private": "yes"
+        },
+        {
+            "name": "DSOUND.dll",
+            "size": 84992,
+            "path": "",
+            "url": "http://web.gta-irz.com/data/launcher/mods/DSOUND.dll",
+            "private": "yes"
+        },
+        {
+            "name": "vorbisHooked.dll",
+            "size": 65536,
+            "path": "",
+            "url": "http://web.gta-irz.com/data/launcher/mods/vorbisHooked.dll",
+            "private": "yes"
+        },
+        {
+            "name": "III.VC.SA.LimitAdjuster.asi",
+            "size": 394240,
+            "path": "",
+            "url": "http://web.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.asi",
+            "private": "yes"
+        },
+        {
+            "name": "sampvoice.asi",
+            "size": 916992,
+            "path": "",
+            "url": "http://web.gta-irz.com/data/launcher/mods/sampvoice.asi",
+            "private": "yes"
+        },
+        {
             "name": "DEFAULT.DAT",
             "size": 714,
             "path": "IRZGAMES",
             "url": "http://web.gta-irz.com/data/launcher/mods/IRZGAMES/DEFAULT.DAT",
-            "private": "yes"
-        },
-        {
-            "name": "GTA.DAT",
-            "size": 3788,
-            "path": "IRZGAMES",
-            "url": "http://web.gta-irz.com/data/launcher/mods/IRZGAMES/GTA.DAT",
             "private": "yes"
         },
         {
@@ -92,17 +85,59 @@
             "private": "yes"
         },
         {
-            "name": "IRZIMG1.img",
-            "size": 204369920,
-            "path": "modloader/IRZGAMES",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZIMG1.img",
+            "name": "GTA.DAT",
+            "size": 3788,
+            "path": "IRZGAMES",
+            "url": "http://web.gta-irz.com/data/launcher/mods/IRZGAMES/GTA.DAT",
             "private": "yes"
         },
         {
-            "name": "IRZIMG2.img",
+            "name": "IRZMOD02.img",
+            "size": 168460288,
+            "path": "modloader/IRZGAMES",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD02.img",
+            "private": "yes"
+        },
+        {
+            "name": "IRZMOD07.img",
             "size": 1910784,
             "path": "modloader/IRZGAMES",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZIMG2.img",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD07.img",
+            "private": "yes"
+        },
+        {
+            "name": "IRZMOD06.img",
+            "size": 75091968,
+            "path": "modloader/IRZGAMES",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD06.img",
+            "private": "yes"
+        },
+        {
+            "name": "IRZMOD05.img",
+            "size": 52131840,
+            "path": "modloader/IRZGAMES",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD05.img",
+            "private": "yes"
+        },
+        {
+            "name": "IRZMOD04.img",
+            "size": 95610880,
+            "path": "modloader/IRZGAMES",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD04.img",
+            "private": "yes"
+        },
+        {
+            "name": "IRZMOD03.img",
+            "size": 76670976,
+            "path": "modloader/IRZGAMES",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD03.img",
+            "private": "yes"
+        },
+        {
+            "name": "IRZMOD01.img",
+            "size": 195696640,
+            "path": "modloader/IRZGAMES",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD01.img",
             "private": "yes"
         },
         {
@@ -127,13 +162,6 @@
             "private": "yes"
         },
         {
-            "name": "wheelie.ini",
-            "size": 973,
-            "path": "modloader/IRZGAMES/main/wheelie/cleo",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/wheelie/cleo/wheelie.ini",
-            "private": "yes"
-        },
-        {
             "name": "wheelie.cs",
             "size": 20256,
             "path": "modloader/IRZGAMES/main/wheelie/cleo",
@@ -141,10 +169,10 @@
             "private": "yes"
         },
         {
-            "name": "bike_stand.cs",
-            "size": 399,
-            "path": "modloader/IRZGAMES/main/stand/CLEO",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/stand/CLEO/bike_stand.cs",
+            "name": "wheelie.ini",
+            "size": 973,
+            "path": "modloader/IRZGAMES/main/wheelie/cleo",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/wheelie/cleo/wheelie.ini",
             "private": "yes"
         },
         {
@@ -155,31 +183,10 @@
             "private": "yes"
         },
         {
-            "name": "effects.fxp",
-            "size": 1337587,
-            "path": "modloader/IRZGAMES/main/effects/models",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effects.fxp",
-            "private": "yes"
-        },
-        {
-            "name": "effectspc.txd",
-            "size": 29197644,
-            "path": "modloader/IRZGAMES/main/effects/models",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effectspc.txd",
-            "private": "yes"
-        },
-        {
-            "name": "particle.txd",
-            "size": 33988904,
-            "path": "modloader/IRZGAMES/main/effects/models",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/particle.txd",
-            "private": "yes"
-        },
-        {
-            "name": "surfinfo.dat",
-            "size": 28134,
-            "path": "modloader/IRZGAMES/main/effects/data",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/data/surfinfo.dat",
+            "name": "bike_stand.cs",
+            "size": 399,
+            "path": "modloader/IRZGAMES/main/stand/CLEO",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/stand/CLEO/bike_stand.cs",
             "private": "yes"
         },
         {
@@ -190,10 +197,10 @@
             "private": "yes"
         },
         {
-            "name": "gtaiv_lights.cs",
-            "size": 18355,
-            "path": "modloader/IRZGAMES/main/effects/cleo",
-            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/cleo/gtaiv_lights.cs",
+            "name": "surfinfo.dat",
+            "size": 28134,
+            "path": "modloader/IRZGAMES/main/effects/data",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/data/surfinfo.dat",
             "private": "yes"
         },
         {
@@ -201,6 +208,34 @@
             "size": 19288,
             "path": "modloader/IRZGAMES/main/effects/cleo",
             "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/cleo/Head.cs",
+            "private": "yes"
+        },
+        {
+            "name": "gtaiv_lights.cs",
+            "size": 18355,
+            "path": "modloader/IRZGAMES/main/effects/cleo",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/cleo/gtaiv_lights.cs",
+            "private": "yes"
+        },
+        {
+            "name": "particle.txd",
+            "size": 33988904,
+            "path": "modloader/IRZGAMES/main/effects/models",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/particle.txd",
+            "private": "yes"
+        },
+        {
+            "name": "effectspc.txd",
+            "size": 29197644,
+            "path": "modloader/IRZGAMES/main/effects/models",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effectspc.txd",
+            "private": "yes"
+        },
+        {
+            "name": "effects.fxp",
+            "size": 1337587,
+            "path": "modloader/IRZGAMES/main/effects/models",
+            "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effects.fxp",
             "private": "yes"
         }
     ]

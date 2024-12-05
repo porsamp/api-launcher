@@ -327,16 +327,11 @@ D:\MyGta\morgan\MorganGames_x64\data\vehicles.ide
 D:\MyGta\morgan\MorganGames_x64\data\water.dat
 D:\MyGta\morgan\MorganGames_x64\data\water1.dat
 D:\MyGta\morgan\MorganGames_x64\data\weapon.dat
-D:\MyGta\morgan\MorganGames_x64\disableantiesc.txt
 D:\MyGta\morgan\MorganGames_x64\disablefpslimit.txt
 D:\MyGta\morgan\MorganGames_x64\disablelimitadjusternotice.txt
 D:\MyGta\morgan\MorganGames_x64\dxutgui.png
 D:\MyGta\morgan\MorganGames_x64\eax.dll
 D:\MyGta\morgan\MorganGames_x64\enablefallteleport.txt
-D:\MyGta\morgan\MorganGames_x64\enbeffect.fx
-D:\MyGta\morgan\MorganGames_x64\enblocal.ini
-D:\MyGta\morgan\MorganGames_x64\enbseries.asi
-D:\MyGta\morgan\MorganGames_x64\enbseries.ini
 D:\MyGta\morgan\MorganGames_x64\fastman92limitAdjuster.log
 D:\MyGta\morgan\MorganGames_x64\freetype.dll
 D:\MyGta\morgan\MorganGames_x64\freetyped.dll
@@ -351,8 +346,6 @@ D:\MyGta\morgan\MorganGames_x64\gthread-2.0-0.dll
 D:\MyGta\morgan\MorganGames_x64\III.VC.SA.LimitAdjuster.asi
 D:\MyGta\morgan\MorganGames_x64\III.VC.SA.LimitAdjuster.ini
 D:\MyGta\morgan\MorganGames_x64\ImgLimitAdjuster.asi
-D:\MyGta\morgan\MorganGames_x64\imgui.ini
-D:\MyGta\morgan\MorganGames_x64\kingrpc.txt
 D:\MyGta\morgan\MorganGames_x64\leviathan\.data\config.ini
 D:\MyGta\morgan\MorganGames_x64\leviathan\.data\config.ini.0
 D:\MyGta\morgan\MorganGames_x64\leviathan\.data\licenses\boost.txt
@@ -373,7 +366,6 @@ D:\MyGta\morgan\MorganGames_x64\leviathan\.data\plugins\plugins.ini
 D:\MyGta\morgan\MorganGames_x64\leviathan\.data\readme.ld
 D:\MyGta\morgan\MorganGames_x64\leviathan\.data\text\1033\menu.fxt
 D:\MyGta\morgan\MorganGames_x64\leviathan\leviathan.ini
-D:\MyGta\morgan\MorganGames_x64\leviathan\leviathan.log
 D:\MyGta\morgan\MorganGames_x64\leviathan\morgan\Morgan00.img
 D:\MyGta\morgan\MorganGames_x64\leviathan\morgan\Morgan01.img
 D:\MyGta\morgan\MorganGames_x64\leviathan\morgan\Morgan02.img
@@ -564,9 +556,6 @@ D:\MyGta\morgan\MorganGames_x64\models\txd\outro.txd
 D:\MyGta\morgan\MorganGames_x64\models\txd\splash1.txd
 D:\MyGta\morgan\MorganGames_x64\models\txd\splash2.txd
 D:\MyGta\morgan\MorganGames_x64\models\txd\splash3.txd
-D:\MyGta\morgan\MorganGames_x64\Morgan\config_chat.json
-D:\MyGta\morgan\MorganGames_x64\Morgan\config_game.json
-D:\MyGta\morgan\MorganGames_x64\Morgan\config_key.json
 D:\MyGta\morgan\MorganGames_x64\Morgan\default.dat
 D:\MyGta\morgan\MorganGames_x64\Morgan\gta.dat
 D:\MyGta\morgan\MorganGames_x64\Morgan\handling.cfg
@@ -3996,8 +3985,6 @@ D:\MyGta\morgan\MorganGames_x64\samp.saa
 D:\MyGta\morgan\MorganGames_x64\sampaux3.ttf
 D:\MyGta\morgan\MorganGames_x64\sampgui.png
 D:\MyGta\morgan\MorganGames_x64\SAMPUninstall.exe
-D:\MyGta\morgan\MorganGames_x64\sampvoice\svblacklist_191.96.93.11_7777.txt
-D:\MyGta\morgan\MorganGames_x64\sampvoice\svlog.txt
 D:\MyGta\morgan\MorganGames_x64\sampvoice.asi
 D:\MyGta\morgan\MorganGames_x64\samp_b.dll
 D:\MyGta\morgan\MorganGames_x64\samp_debug.exe

@@ -4,6 +4,10 @@
     "launcherPort": 7777,
     "launcherMods": "http://web.gta-irz.com/data/launcher/mods/",
     "launcherBanner": "https://i.imgur.com/zXop5xt.png",
+    "launcherEnb": {
+      "name": "enbseries",
+      "download": "http://web.gta-irz.com/data/launcher/enbseries.7z"
+    },
     "launcherGames": {
       "name": "IRZGAMES_x64",
       "download": "http://web.gta-irz.com/data/launcher/IRZGAMES_x64.7z"

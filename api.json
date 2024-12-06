@@ -5,7 +5,7 @@
     "launcherMods": "http://web.gta-irz.com/data/launcher/mods/",
     "launcherBanner": "https://i.imgur.com/zXop5xt.png",
     "launcherDirectx": {
-      "name": "sampvoice",
+      "name": "directx",
       "download": "http://web.gta-irz.com/data/launcher/directx.7z"
     },
     "launcherVc": {

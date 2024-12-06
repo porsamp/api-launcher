@@ -4,6 +4,10 @@
     "launcherPort": 7777,
     "launcherMods": "http://web.gta-irz.com/data/launcher/mods/",
     "launcherBanner": "https://i.imgur.com/zXop5xt.png",
+    "launcherVoice": {
+      "name": "sampvoice",
+      "download": "http://web.gta-irz.com/data/launcher/sampvoice.7z"
+    },
     "launcherEnb": {
       "name": "enbseries",
       "download": "http://web.gta-irz.com/data/launcher/enbseries.7z"

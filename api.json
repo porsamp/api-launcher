@@ -6,10 +6,12 @@
     "launcherBanner": "https://i.imgur.com/zXop5xt.png",
     "launcherDirectx": {
       "name": "directx",
+      "install": "DXSETUP.exe",
       "download": "http://web.gta-irz.com/data/launcher/directx.7z"
     },
     "launcherVc": {
       "name": "vc",
+      "install": "install_all.bat",
       "download": "http://web.gta-irz.com/data/launcher/vc.7z"
     },
     "launcherVoice": {

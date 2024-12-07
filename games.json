@@ -4,343 +4,343 @@
       "name": "DSOUND.dll",
       "size": 84992,
       "path": "",
-      "url": "http://web.gta-irz.com/data/launcher/mods/DSOUND.dll",
+      "url": "https://host.gta-irz.com/data/launcher/mods/DSOUND.dll",
       "private": "yes"
     },
     {
       "name": "III.VC.SA.LimitAdjuster.asi",
       "size": 394240,
       "path": "",
-      "url": "http://web.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.asi",
+      "url": "https://host.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.asi",
       "private": "yes"
     },
     {
       "name": "III.VC.SA.LimitAdjuster.ini",
       "size": 8167,
       "path": "",
-      "url": "http://web.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.ini",
+      "url": "https://host.gta-irz.com/data/launcher/mods/III.VC.SA.LimitAdjuster.ini",
       "private": "yes"
     },
     {
       "name": "ImgLimitAdjuster.asi",
       "size": 97280,
       "path": "",
-      "url": "http://web.gta-irz.com/data/launcher/mods/ImgLimitAdjuster.asi",
+      "url": "https://host.gta-irz.com/data/launcher/mods/ImgLimitAdjuster.asi",
       "private": "yes"
     },
     {
       "name": "DEFAULT.DAT",
       "size": 851,
       "path": "IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/IRZGAMES/DEFAULT.DAT",
+      "url": "https://host.gta-irz.com/data/launcher/mods/IRZGAMES/DEFAULT.DAT",
       "private": "yes"
     },
     {
       "name": "GTA.DAT",
       "size": 3788,
       "path": "IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/IRZGAMES/GTA.DAT",
+      "url": "https://host.gta-irz.com/data/launcher/mods/IRZGAMES/GTA.DAT",
       "private": "yes"
     },
     {
       "name": "HANDLING.CFG",
       "size": 64532,
       "path": "IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/IRZGAMES/HANDLING.CFG",
+      "url": "https://host.gta-irz.com/data/launcher/mods/IRZGAMES/HANDLING.CFG",
       "private": "yes"
     },
     {
       "name": "loadscs.txd",
       "size": 34214568,
       "path": "IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/IRZGAMES/loadscs.txd",
+      "url": "https://host.gta-irz.com/data/launcher/mods/IRZGAMES/loadscs.txd",
       "private": "yes"
     },
     {
       "name": "IRZMOD01.img",
       "size": 195696640,
       "path": "modloader/IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD01.img",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD01.img",
       "private": "yes"
     },
     {
       "name": "IRZMOD02.img",
       "size": 168460288,
       "path": "modloader/IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD02.img",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD02.img",
       "private": "yes"
     },
     {
       "name": "IRZMOD03.img",
       "size": 76670976,
       "path": "modloader/IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD03.img",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD03.img",
       "private": "yes"
     },
     {
       "name": "IRZMOD04.img",
       "size": 95610880,
       "path": "modloader/IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD04.img",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD04.img",
       "private": "yes"
     },
     {
       "name": "IRZMOD05.img",
       "size": 52131840,
       "path": "modloader/IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD05.img",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD05.img",
       "private": "yes"
     },
     {
       "name": "IRZMOD06.img",
       "size": 75091968,
       "path": "modloader/IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD06.img",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD06.img",
       "private": "yes"
     },
     {
       "name": "IRZMOD07.img",
       "size": 1910784,
       "path": "modloader/IRZGAMES",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD07.img",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/IRZMOD07.img",
       "private": "yes"
     },
     {
       "name": "camera.txd",
       "size": 22952,
       "path": "modloader/IRZGAMES/main/camera",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/camera/camera.txd",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/camera/camera.txd",
       "private": "yes"
     },
     {
       "name": "gtaiv_lights.cs",
       "size": 18355,
       "path": "modloader/IRZGAMES/main/effects/cleo",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/cleo/gtaiv_lights.cs",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/cleo/gtaiv_lights.cs",
       "private": "yes"
     },
     {
       "name": "Head.cs",
       "size": 19288,
       "path": "modloader/IRZGAMES/main/effects/cleo",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/cleo/Head.cs",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/cleo/Head.cs",
       "private": "yes"
     },
     {
       "name": "object.dat",
       "size": 126421,
       "path": "modloader/IRZGAMES/main/effects/data",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/data/object.dat",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/data/object.dat",
       "private": "yes"
     },
     {
       "name": "surfinfo.dat",
       "size": 28134,
       "path": "modloader/IRZGAMES/main/effects/data",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/data/surfinfo.dat",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/data/surfinfo.dat",
       "private": "yes"
     },
     {
       "name": "effects.fxp",
       "size": 1337587,
       "path": "modloader/IRZGAMES/main/effects/models",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effects.fxp",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effects.fxp",
       "private": "yes"
     },
     {
       "name": "effectspc.txd",
       "size": 29197644,
       "path": "modloader/IRZGAMES/main/effects/models",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effectspc.txd",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/effectspc.txd",
       "private": "yes"
     },
     {
       "name": "particle.txd",
       "size": 33988904,
       "path": "modloader/IRZGAMES/main/effects/models",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/particle.txd",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/effects/models/particle.txd",
       "private": "yes"
     },
     {
       "name": "fronten1.txd",
       "size": 468648,
       "path": "modloader/IRZGAMES/main/fronten",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/fronten/fronten1.txd",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/fronten/fronten1.txd",
       "private": "yes"
     },
     {
       "name": "fronten_pc.txd",
       "size": 28344,
       "path": "modloader/IRZGAMES/main/fronten",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/fronten/fronten_pc.txd",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/fronten/fronten_pc.txd",
       "private": "yes"
     },
     {
       "name": "bike_stand.cs",
       "size": 399,
       "path": "modloader/IRZGAMES/main/stand/CLEO",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/stand/CLEO/bike_stand.cs",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/stand/CLEO/bike_stand.cs",
       "private": "yes"
     },
     {
       "name": "stand.ifp",
       "size": 2248,
       "path": "modloader/IRZGAMES/main/stand/gta3.img",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/stand/gta3.img/stand.ifp",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/stand/gta3.img/stand.ifp",
       "private": "yes"
     },
     {
       "name": "wheelie.cs",
       "size": 20256,
       "path": "modloader/IRZGAMES/main/wheelie/cleo",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/wheelie/cleo/wheelie.cs",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/wheelie/cleo/wheelie.cs",
       "private": "yes"
     },
     {
       "name": "wheelie.ini",
       "size": 973,
       "path": "modloader/IRZGAMES/main/wheelie/cleo",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/wheelie/cleo/wheelie.ini",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/main/wheelie/cleo/wheelie.ini",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 513194,
       "path": "modloader/IRZGAMES/sounds/Bank_031",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_031/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_031/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 16660,
       "path": "modloader/IRZGAMES/sounds/Bank_031",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_031/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_031/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 1435902,
       "path": "modloader/IRZGAMES/sounds/Bank_032",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_032/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_032/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 258324,
       "path": "modloader/IRZGAMES/sounds/Bank_032",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_032/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_032/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_003.wav",
       "size": 152268,
       "path": "modloader/IRZGAMES/sounds/Bank_032",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_032/sound_003.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_032/sound_003.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 178930,
       "path": "modloader/IRZGAMES/sounds/Bank_034",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_034/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_034/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 208932,
       "path": "modloader/IRZGAMES/sounds/Bank_034",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_034/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_034/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 1872714,
       "path": "modloader/IRZGAMES/sounds/Bank_035",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 69118,
       "path": "modloader/IRZGAMES/sounds/Bank_035",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_003.wav",
       "size": 238094,
       "path": "modloader/IRZGAMES/sounds/Bank_035",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_003.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_003.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 1411450,
       "path": "modloader/IRZGAMES/sounds/Bank_108",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_108/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_108/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 501210,
       "path": "modloader/IRZGAMES/sounds/Bank_108",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_108/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_108/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 10688334,
       "path": "modloader/IRZGAMES/sounds/Bank_109",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 10332066,
       "path": "modloader/IRZGAMES/sounds/Bank_109",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_003.wav",
       "size": 36226,
       "path": "modloader/IRZGAMES/sounds/Bank_109",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_003.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_003.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 1411450,
       "path": "modloader/IRZGAMES/sounds/Bank_118",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_118/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_118/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 501210,
       "path": "modloader/IRZGAMES/sounds/Bank_118",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_118/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_118/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
       "size": 10688334,
       "path": "modloader/IRZGAMES/sounds/Bank_119",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_119/sound_001.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_119/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
       "size": 10332066,
       "path": "modloader/IRZGAMES/sounds/Bank_119",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_119/sound_002.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_119/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_003.wav",
       "size": 36226,
       "path": "modloader/IRZGAMES/sounds/Bank_119",
-      "url": "http://web.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_119/sound_003.wav",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_119/sound_003.wav",
       "private": "yes"
     }
   ]

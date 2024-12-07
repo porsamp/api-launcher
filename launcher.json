@@ -1,6 +1,6 @@
 {
     "changelog": "|- Build 1 - 2023/10/08\nRelease beta version",
-    "download": "https://gta-raygus.com/API/PC/raygus-launcher-setup.exe",
+    "download": "https://host.gta-irz.com/data/launcher/irz-launcher_1.5.0_x64-setup.exe",
     "ompPluginChecksum": "b81c9553157075942c9522678f4baadf",
     "ompPluginDownload": "https://assets.open.mp/omp-client.dll",
     "version": "5"

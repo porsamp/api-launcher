@@ -1,12 +1,13 @@
 {
     "launcherVersionCode": 1,
-    "launcherAddress": "gta-irz.com",
+    "launcherAddress"
+: "gta-irz.com",
     "launcherPort": 7777,
     "launcherMods": "https://host.gta-irz.com/data/launcher/mods/",
     "launcherBanner": "https://i.imgur.com/zXop5xt.png",
     "launcherDirectx": {
       "name": "directx",
-      "install": "install.bat",
+      "install": "install_all.bat",
       "download": "https://host.gta-irz.com/data/launcher/directx.7z"
     },
     "launcherVc": {

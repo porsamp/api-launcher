@@ -29,6 +29,13 @@
       "private": "yes"
     },
     {
+      "name": "IRZClient.asi",
+      "size": 10752,
+      "path": "",
+      "url": "https://host.gta-irz.com/data/launcher/mods/IRZClient.asi",
+      "private": "yes"
+    },
+    {
       "name": "DEFAULT.DAT",
       "size": 851,
       "path": "IRZGAMES",

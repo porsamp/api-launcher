@@ -4,6 +4,11 @@
     "launcherPort": 7777,
     "launcherMods": "https://host.gta-irz.com/data/launcher/mods/",
     "launcherBanner": "https://i.imgur.com/zXop5xt.png",
+    "launcherLanguage": {
+      "name": "language",
+      "install": "install_all.bat",
+      "download": "https://host.gta-irz.com/data/launcher/language.7z"
+    },
     "launcherDirectx": {
       "name": "directx",
       "install": "install_all.bat",

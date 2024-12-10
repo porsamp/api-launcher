@@ -331,70 +331,35 @@
     },
     {
       "name": "sound_001.wav",
-      "size": 178930,
-      "path": "modloader/IRZGAMES/sounds/Bank_034",
-      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_034/sound_001.wav",
-      "private": "yes"
-    },
-    {
-      "name": "sound_002.wav",
-      "size": 208932,
-      "path": "modloader/IRZGAMES/sounds/Bank_034",
-      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_034/sound_002.wav",
-      "private": "yes"
-    },
-    {
-      "name": "sound_001.wav",
-      "size": 1872714,
-      "path": "modloader/IRZGAMES/sounds/Bank_035",
-      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_001.wav",
-      "private": "yes"
-    },
-    {
-      "name": "sound_002.wav",
-      "size": 69118,
-      "path": "modloader/IRZGAMES/sounds/Bank_035",
-      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_002.wav",
-      "private": "yes"
-    },
-    {
-      "name": "sound_003.wav",
-      "size": 238094,
-      "path": "modloader/IRZGAMES/sounds/Bank_035",
-      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_035/sound_003.wav",
-      "private": "yes"
-    },
-    {
-      "name": "sound_001.wav",
-      "size": 1411450,
+      "size": 158002,
       "path": "modloader/IRZGAMES/sounds/Bank_108",
       "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_108/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
-      "size": 501210,
+      "size": 19220,
       "path": "modloader/IRZGAMES/sounds/Bank_108",
       "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_108/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_001.wav",
-      "size": 10688334,
+      "size": 278500,
       "path": "modloader/IRZGAMES/sounds/Bank_109",
       "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_001.wav",
       "private": "yes"
     },
     {
       "name": "sound_002.wav",
-      "size": 10332066,
+      "size": 214968,
       "path": "modloader/IRZGAMES/sounds/Bank_109",
       "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_002.wav",
       "private": "yes"
     },
     {
       "name": "sound_003.wav",
-      "size": 36226,
+      "size": 682192,
       "path": "modloader/IRZGAMES/sounds/Bank_109",
       "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_109/sound_003.wav",
       "private": "yes"
@@ -432,6 +397,41 @@
       "size": 36226,
       "path": "modloader/IRZGAMES/sounds/Bank_119",
       "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_119/sound_003.wav",
+      "private": "yes"
+    },
+    {
+      "name": "sound_001.wav",
+      "size": 178930,
+      "path": "modloader/IRZGAMES/sounds/Bank_34",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_34/sound_001.wav",
+      "private": "yes"
+    },
+    {
+      "name": "sound_002.wav",
+      "size": 208932,
+      "path": "modloader/IRZGAMES/sounds/Bank_34",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_34/sound_002.wav",
+      "private": "yes"
+    },
+    {
+      "name": "sound_001.wav",
+      "size": 1872714,
+      "path": "modloader/IRZGAMES/sounds/Bank_35",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_35/sound_001.wav",
+      "private": "yes"
+    },
+    {
+      "name": "sound_002.wav",
+      "size": 69118,
+      "path": "modloader/IRZGAMES/sounds/Bank_35",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_35/sound_002.wav",
+      "private": "yes"
+    },
+    {
+      "name": "sound_003.wav",
+      "size": 238094,
+      "path": "modloader/IRZGAMES/sounds/Bank_35",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/sounds/Bank_35/sound_003.wav",
       "private": "yes"
     }
   ]

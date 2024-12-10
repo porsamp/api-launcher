@@ -64,6 +64,90 @@
       "private": "yes"
     },
     {
+      "name": "bf400.dff",
+      "size": 49686528,
+      "path": "modloader/IRZGAMES/custom/bf400",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/bf400/bf400.dff",
+      "private": "yes"
+    },
+    {
+      "name": "bf400.txd",
+      "size": 88507476,
+      "path": "modloader/IRZGAMES/custom/bf400",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/bf400/bf400.txd",
+      "private": "yes"
+    },
+    {
+      "name": "fcr900.dff",
+      "size": 17885184,
+      "path": "modloader/IRZGAMES/custom/fcr900",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/fcr900/fcr900.dff",
+      "private": "yes"
+    },
+    {
+      "name": "fcr900.txd",
+      "size": 24954956,
+      "path": "modloader/IRZGAMES/custom/fcr900",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/fcr900/fcr900.txd",
+      "private": "yes"
+    },
+    {
+      "name": "infernus.dff",
+      "size": 29595648,
+      "path": "modloader/IRZGAMES/custom/infernus",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/infernus/infernus.dff",
+      "private": "yes"
+    },
+    {
+      "name": "infernus.txd",
+      "size": 10702120,
+      "path": "modloader/IRZGAMES/custom/infernus",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/infernus/infernus.txd",
+      "private": "yes"
+    },
+    {
+      "name": "nrg500.dff",
+      "size": 47929344,
+      "path": "modloader/IRZGAMES/custom/nrg500",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/nrg500/nrg500.dff",
+      "private": "yes"
+    },
+    {
+      "name": "nrg500.txd",
+      "size": 70330864,
+      "path": "modloader/IRZGAMES/custom/nrg500",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/nrg500/nrg500.txd",
+      "private": "yes"
+    },
+    {
+      "name": "pcj600.dff",
+      "size": 50900992,
+      "path": "modloader/IRZGAMES/custom/pcj600",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/pcj600/pcj600.dff",
+      "private": "yes"
+    },
+    {
+      "name": "pcj600.txd",
+      "size": 53417584,
+      "path": "modloader/IRZGAMES/custom/pcj600",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/pcj600/pcj600.txd",
+      "private": "yes"
+    },
+    {
+      "name": "wayfarer.dff",
+      "size": 30289920,
+      "path": "modloader/IRZGAMES/custom/wayfarer",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/wayfarer/wayfarer.dff",
+      "private": "yes"
+    },
+    {
+      "name": "wayfarer.txd",
+      "size": 7748032,
+      "path": "modloader/IRZGAMES/custom/wayfarer",
+      "url": "https://host.gta-irz.com/data/launcher/mods/modloader/IRZGAMES/custom/wayfarer/wayfarer.txd",
+      "private": "yes"
+    },
+    {
       "name": "IRZMOD01.img",
       "size": 195696640,
       "path": "modloader/IRZGAMES",

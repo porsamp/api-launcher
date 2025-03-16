@@ -32,7 +32,7 @@
       "download": "https://host.gta-irz.com/data/launcher/IRZGAMES_x64.zip"
     },
     "launcherInstall": {
-      "name": "irz-launcher_1.5.0_x64-setup",
-      "download": "https://host.gta-irz.com/data/launcher/irz-launcher_1.5.0_x64-setup.exe"
+      "name": "irz-launcher_1.7.0_x64-setup",
+      "download": "https://host.gta-irz.com/data/launcher/version/irz-launcher_1.7.0_x64-setup.exe"
     }
 }

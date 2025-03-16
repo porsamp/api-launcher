@@ -7,25 +7,25 @@
     "launcherLanguage": {
       "name": "language",
       "install": "install_all.bat",
-      "download": "https://host.gta-irz.com/data/launcher/language.7z"
+      "download": "https://samp.fivem-cache.com/lib/language.zip"
     },
     "launcherDirectx": {
       "name": "directx",
       "install": "install_all.bat",
-      "download": "https://host.gta-irz.com/data/launcher/directx.7z"
+      "download": "https://samp.fivem-cache.com/lib/directx.zip"
     },
     "launcherVc": {
       "name": "vc",
       "install": "install_all.bat",
-      "download": "https://host.gta-irz.com/data/launcher/vc.7z"
+      "download": "https://samp.fivem-cache.com/lib/vc.zip"
     },
     "launcherVoice": {
       "name": "sampvoice",
-      "download": "https://host.gta-irz.com/data/launcher/sampvoice.7z"
+      "download": "https://samp.fivem-cache.com/lib/sampvoice.zip"
     },
     "launcherEnb": {
       "name": "enbseries",
-      "download": "https://host.gta-irz.com/data/launcher/enbseries.7z"
+      "download": "https://samp.fivem-cache.com/lib/enbseries.zip"
     },
     "launcherGames": {
       "name": "IRZGAMES_x64",

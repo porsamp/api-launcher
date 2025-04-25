@@ -4,6 +4,11 @@
     "launcherAddress": "gta-irz.com",
     "launcherPort": 7777,
     "launcherBanner": "https://i.imgur.com/o4GbrWe.png",
-    "launcherUrl": "porsamp"
+    "launcherWebsize": "http://www.gta-irz.com/",
+    "launcherTopup": "http://web.gta-irz.com/ucp",
+    "launcherFacebook": "https://www.facebook.com/GTAIRZ",
+    "launcherDiscord": "https://discord.gg/v2pPfwf",
+    "launcherYoutube": "https://www.youtube.com/@IRONMANZING",
+    "launcherTiktok": "https://www.tiktok.com/@porsamp"
   }
 }

@@ -2,7 +2,7 @@
     "launcherVersionCode": 1,
     "launcherAddress": "gta-irz.com",
     "launcherPort": 7777,
-    "launcherMods": "https://data.gta-irz.com/data/mods/",
+    "launcherMods": "https://data.gta-irz.com/data/launcher/mods/",
     "launcherBanner": "https://i.imgur.com/zXop5xt.png",
     "launcherLanguage": {
       "name": "language",
@@ -29,11 +29,12 @@
     },
     "launcherGames": {
       "name": "IRZGAMES_x64",
-      "download": "https://data.gta-irz.com/data/IRZGAMES_x64.zip"
+      "download": "https://data.gta-irz.com/data/launcher/IRZGAMES_x64.zip"
     },
     "launcherInstall": {
       "name": "irz-launcher_1.8.0_x64-setup",
       "download": "https://host.gta-irz.com/data/launcher/version/irz-launcher_1.8.0_x64-setup.exe"
     }
 }
+
 

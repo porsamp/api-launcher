@@ -7,35 +7,36 @@
     "launcherLanguage": {
       "name": "language",
       "install": "install_all.bat",
-      "download": "https://data.gta-irz.com/data/launcher/addon/language.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/language.zip"
     },
     "launcherDirectx": {
       "name": "directx",
       "install": "install_all.bat",
-      "download": "https://data.gta-irz.com/data/launcher/addon/directx.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/directx.zip"
     },
     "launcherVc": {
       "name": "vc",
       "install": "install_all.bat",
-      "download": "https://data.gta-irz.com/data/launcher/addon/vc.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/vc.zip"
     },
     "launcherVoice": {
       "name": "sampvoice",
-      "download": "https://data.gta-irz.com/data/launcher/addon/sampvoice.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/sampvoice.zip"
     },
     "launcherEnb": {
       "name": "enbseries",
-      "download": "https://data.gta-irz.com/data/launcher/addon/enbseries.zip"
+      "download": "http://82.26.104.83/data/launcher/addon/enbseries.zip"
     },
     "launcherGames": {
       "name": "IRZGAMES_x64",
-      "download": "https://data.gta-irz.com/data/launcher/IRZGAMES_x64.zip"
+      "download": "http://82.26.104.83/data/launcher/IRZGAMES_x64.zip"
     },
     "launcherInstall": {
       "name": "irz-launcher_1.8.0_x64-setup",
       "download": "https://host.gta-irz.com/data/launcher/version/irz-launcher_1.8.0_x64-setup.exe"
     }
 }
+
 
 
 
